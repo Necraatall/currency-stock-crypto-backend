@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Test coverage
+*.cover
+*.coverage
+.coverage.*
+.cache
+.nox/
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.pyc
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDE specific
+.vscode/
+.idea/
+
+# Logs and local files
+*.log
+*.env
+.env.*
